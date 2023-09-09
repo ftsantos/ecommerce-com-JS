@@ -1,0 +1,5 @@
+
+display: block --> é vertical
+display: flex -- trabalha com 2 direções
+flex-direction: row; --> horizontal, em linha
+flex-direction: column; --> vertical, em coluna
