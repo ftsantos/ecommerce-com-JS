@@ -18,8 +18,7 @@ function irParaCheckout(){
     if(Object.keys(idsProdutosCarrinhoComQuantidade).length === 0){
         return;
     }
-    //window.location.href = window.location.origin + "/checkout.html";
-    window.location.href = "https://ecommerce-com-js.vercel.app/checkout.html";
+    window.location.href = window.location.origin + "/checkout.html";
 }
 
 export function inicializarCarrinho() {
